@@ -10,6 +10,7 @@
 
 
 import java.util.Scanner;
+
 public class Assignment4 {
 
     public static void main(String[] args) {
@@ -46,7 +47,6 @@ public class Assignment4 {
         System.out.println();
 
         System.out.println(sum);
-
     }
 }
 
