@@ -7,8 +7,9 @@
 // Second loop use for print user-defined values 
 // sum and there loop  use for addition of elements 
 
-import java.util.Scanner;
 
+
+import java.util.Scanner;
 public class Assignment4 {
 
     public static void main(String[] args) {
@@ -37,8 +38,6 @@ public class Assignment4 {
 
         System.out.println();
 
-
-
         int sum=0;
         for(int i=0; i<array.length; i++){
          sum+= array[i];
@@ -47,8 +46,6 @@ public class Assignment4 {
         System.out.println();
 
         System.out.println(sum);
-
-    
 
     }
 }
